@@ -116,7 +116,6 @@ class SpriteSplit:
         return image
 
 
-sprite_decor = SpriteSplit('decoration.png')
 sprites = pygame.image.load('sprites.png')
 
 cat = pygame.image.load('cat.png')
